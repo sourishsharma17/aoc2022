@@ -8,6 +8,6 @@ These are just my personal, raw, authentic solutions. I've done them recorded an
 `dayXa.py` --> my part 1 solution<br>
 `dayXb.py` --> my part 2 solution<br>
 
-And my accompanying videos (impressions, timelapse, explanation) are [here]([https://www.youtube.com/playlist?list=PLBODEqHSvpFLujjuEkpvKBAJLcaLQNUmw](https://www.youtube.com/playlist?list=PLBODEqHSvpFLujjuEkpvKBAJLcaLQNUmw).
+And my accompanying videos (impressions, timelapse, explanation) are [here](https://www.youtube.com/playlist?list=PLBODEqHSvpFLujjuEkpvKBAJLcaLQNUmw).
 
 <br>Sourish 
